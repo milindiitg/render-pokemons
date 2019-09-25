@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/milindiitg/render-pokemons/precache-manifest.9d2b52616ed088996cf5e6a5eb45bf25.js"
+  "/render-pokemons/precache-manifest.68b058f5f2f39a0df7f7d66d594e5539.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/milindiitg/render-pokemons/index.html", {
+workbox.routing.registerNavigationRoute("/render-pokemons/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
