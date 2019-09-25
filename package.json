@@ -2,6 +2,7 @@
   "name": "pokemon-renderer",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://gitname.github.io/render-pokemons",
   "dependencies": {
     "cors": "^2.8.5",
     "gh-pages": "^2.0.1",
