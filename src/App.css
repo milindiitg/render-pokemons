@@ -1,0 +1,13 @@
+.pokemons-area {
+  padding: 1em;
+  height: 30em;
+  position: relative;
+}
+
+.pokemon-info {
+  position: relative;
+}
+
+.pokemons {
+  position: relative;
+}
